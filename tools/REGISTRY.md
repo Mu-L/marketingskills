@@ -17,9 +17,13 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 - **Disclosed + vetted for fit.** Each carries a disclosure header in its integration guide and is marked ◆ in the index below.
 - **Additive, never biasing.** A partner is listed *alongside* the neutral options for the same job, never instead of them. Partner status never removes or demotes another tool and **never changes what any skill recommends** — if a non-partner is the right answer, that's the answer. The badge means "paid, disclosed, vetted for fit," not "best in category."
 
+<!-- PARTNERS:START -->
 | Partner | Category | Guide |
 |---------|----------|-------|
 | ◆ Converly | Conversion tracking / attribution | [converly.md](integrations/converly.md) |
+<!-- PARTNERS:END -->
+
+<!-- The table above is generated from partners.json — run `node scripts/sync-partners.mjs`. -->
 
 ---
 

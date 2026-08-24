@@ -10,6 +10,14 @@ New to the terminal and coding agents? Check out the companion guide [Coding for
 
 Run into a problem or have a question? [Open an issue](https://github.com/coreyhaines31/marketingskills/issues) — we're happy to help.
 
+## Partners
+
+The library is free and MIT-licensed. [Partners](skills/partners/) fund the work — they get a clearly disclosed partner skill, never any influence over what the core skills recommend. [Become a partner →](https://marketing-skills.com/sponsorship)
+
+> **[Converly](https://converly.io?ref=marketingskills)** — *Marketing analytics & attribution.* Server-side conversion tracking that fires when someone submits a form, books a meeting, or starts a chat — passing click IDs and identifiers for Enhanced Conversions (Google) and high EMQ match rates (Meta), across 100+ tools. CLI + MCP so your agent sets it up in minutes. → [Partner skill](skills/partners/converly/)
+
+<!-- Featured logo goes here once Converly provides an SVG/PNG asset. -->
+
 ## What are Skills?
 
 Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, your agent can recognize when you're working on a marketing task and apply the right frameworks and best practices.

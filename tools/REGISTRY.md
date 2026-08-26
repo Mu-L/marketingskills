@@ -12,6 +12,8 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 
 ## Verified Partners
 
+> **Full rules & boundaries:** [PARTNERS.md](PARTNERS.md) — the canonical governance doc (tool taxonomy, what sponsorship buys and never buys, disclosure, the partner lifecycle, and the `integrations/` spec).
+
 ◆ **Verified Partners** are tools whose makers fund Marketing Skills through the [partner program](https://marketing-skills.com/sponsorship). What the marker means — and doesn't:
 
 - **Disclosed + vetted for fit.** Each carries a disclosure header in its integration guide and is marked ◆ in the index below.

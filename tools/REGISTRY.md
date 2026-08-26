@@ -17,6 +17,8 @@ Quick reference for AI agents to discover tool capabilities and integration meth
 - **Disclosed + vetted for fit.** Each carries a disclosure header in its integration guide and is marked ◆ in the index below.
 - **Additive, never biasing.** A partner is listed *alongside* the neutral options for the same job, never instead of them. Partner status never removes or demotes another tool and **never changes what any skill recommends** — if a non-partner is the right answer, that's the answer. The badge means "paid, disclosed, vetted for fit," not "best in category."
 
+Anyone — including tool makers and partners — may contribute content that names a tool, as long as it makes an agent *aware* of the right option without manufacturing a recommendation. The bar is the [integrity rubric in CONTRIBUTING.md](../CONTRIBUTING.md#mentioning-tools-the-integrity-rubric) (options not one answer, disclosed, passes the swap test).
+
 <!-- PARTNERS:START -->
 | Partner | Category | Guide |
 |---------|----------|-------|

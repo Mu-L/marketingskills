@@ -76,7 +76,7 @@ This library is open source and contributions are welcome from **anyone — incl
 - **Disclose self-interest.** If you're the tool's maker or a partner, say so. Partner tools are marked ◆ in [`tools/REGISTRY.md`](tools/REGISTRY.md#verified-partners); house tools (built by the maintainer) carry stricter disclosure.
 - **The swap test.** If you swapped your tool for a competitor, the section should still read as fair. If removing it breaks the guidance, it was shilling — rework it.
 
-The maintainer holds final editorial control and may edit or cut anything for neutrality and accuracy. Core skills stay editorially independent: sponsorship and contributions add content, they never buy a recommendation. See the Verified Partners note in [`tools/REGISTRY.md`](tools/REGISTRY.md#verified-partners).
+The maintainer holds final editorial control and may edit or cut anything for neutrality and accuracy. Core skills stay editorially independent: sponsorship and contributions add content, they never buy a recommendation. Full program rules and boundaries — the tool taxonomy, what sponsorship buys and never buys, disclosure, and the partner lifecycle — are in [`tools/PARTNERS.md`](tools/PARTNERS.md).
 
 ## Submitting Your Contribution
 
